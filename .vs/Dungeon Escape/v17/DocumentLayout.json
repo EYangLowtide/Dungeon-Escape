@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elgol\\Dungeon Escape\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|c:\\users\\elgol\\dungeon escape\\assets\\editor\\randomdungeongeneratoreditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|solutionrelative:assets\\editor\\randomdungeongeneratoreditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|C:\\Users\\elgol\\Dungeon Escape\\assets\\_scripts\\roomsystem\\prefabplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|solutionrelative:assets\\_scripts\\roomsystem\\prefabplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|C:\\Users\\elgol\\Dungeon Escape\\assets\\_scripts\\contextsteering\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|solutionrelative:assets\\_scripts\\contextsteering\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|C:\\Users\\elgol\\Dungeon Escape\\assets\\_scripts\\contextsteering\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|solutionrelative:assets\\_scripts\\contextsteering\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|C:\\Users\\elgol\\Dungeon Escape\\assets\\_scripts\\roomsystem\\roomcontentgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|solutionrelative:assets\\_scripts\\roomsystem\\roomcontentgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|C:\\Users\\elgol\\Dungeon Escape\\assets\\_scripts\\roomsystem\\playerroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|solutionrelative:assets\\_scripts\\roomsystem\\playerroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|C:\\Users\\elgol\\Dungeon Escape\\assets\\_scripts\\roomsystem\\items\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|solutionrelative:assets\\_scripts\\roomsystem\\items\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|C:\\Users\\elgol\\Dungeon Escape\\assets\\_scripts\\contextsteering\\ai\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|solutionrelative:assets\\_scripts\\contextsteering\\ai\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|C:\\Users\\elgol\\Dungeon Escape\\assets\\_scripts\\contextsteering\\ai\\seekbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|solutionrelative:assets\\_scripts\\contextsteering\\ai\\seekbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|C:\\Users\\elgol\\Dungeon Escape\\assets\\_scripts\\corridorfirstdungeongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|solutionrelative:assets\\_scripts\\corridorfirstdungeongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|C:\\Users\\elgol\\Dungeon Escape\\assets\\pcg\\_sprites\\mapruntimegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|solutionrelative:assets\\pcg\\_sprites\\mapruntimegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|C:\\Users\\elgol\\Dungeon Escape\\assets\\_scripts\\tilemapvisualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0EF664-7F5B-1D11-D90C-0E41D59AFB33}|NewAssembly.csproj|solutionrelative:assets\\_scripts\\tilemapvisualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomDungeonGeneratorEditor.cs",
+              "DocumentMoniker": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\Editor\\RandomDungeonGeneratorEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\RandomDungeonGeneratorEditor.cs",
+              "ToolTip": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\Editor\\RandomDungeonGeneratorEditor.cs",
+              "RelativeToolTip": "Assets\\Editor\\RandomDungeonGeneratorEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:47:42.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\ContextSteering\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\ContextSteering\\Health.cs",
+              "ToolTip": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\ContextSteering\\Health.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\ContextSteering\\Health.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:35:22.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomContentGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\RoomSystem\\RoomContentGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\RoomSystem\\RoomContentGenerator.cs",
+              "ToolTip": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\RoomSystem\\RoomContentGenerator.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\RoomSystem\\RoomContentGenerator.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:22:26.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\ContextSteering\\Agent.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\ContextSteering\\Agent.cs",
+              "ToolTip": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\ContextSteering\\Agent.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\ContextSteering\\Agent.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:21:44.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\RoomSystem\\Items\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\RoomSystem\\Items\\ItemData.cs",
+              "ToolTip": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\RoomSystem\\Items\\ItemData.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\RoomSystem\\Items\\ItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:02:20.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\ContextSteering\\AI\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\ContextSteering\\AI\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\ContextSteering\\AI\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\ContextSteering\\AI\\EnemyAI.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:54:38.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeekBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\ContextSteering\\AI\\SeekBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\ContextSteering\\AI\\SeekBehaviour.cs",
+              "ToolTip": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\ContextSteering\\AI\\SeekBehaviour.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\ContextSteering\\AI\\SeekBehaviour.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:54:07.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerRoom.cs",
+              "DocumentMoniker": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\RoomSystem\\PlayerRoom.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\RoomSystem\\PlayerRoom.cs",
+              "ToolTip": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\RoomSystem\\PlayerRoom.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\RoomSystem\\PlayerRoom.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:52:24.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrefabPlacer.cs",
+              "DocumentMoniker": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\RoomSystem\\PrefabPlacer.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\RoomSystem\\PrefabPlacer.cs",
+              "ToolTip": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\RoomSystem\\PrefabPlacer.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\RoomSystem\\PrefabPlacer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:48:55.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CorridorFirstDungeonGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\CorridorFirstDungeonGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\CorridorFirstDungeonGenerator.cs",
+              "ToolTip": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\CorridorFirstDungeonGenerator.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\CorridorFirstDungeonGenerator.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:47:34.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MapRuntimeGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\PCG\\_Sprites\\MapRuntimeGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\PCG\\_Sprites\\MapRuntimeGenerator.cs",
+              "ToolTip": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\PCG\\_Sprites\\MapRuntimeGenerator.cs",
+              "RelativeToolTip": "Assets\\PCG\\_Sprites\\MapRuntimeGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:47:26.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TilemapVisualizer.cs",
+              "DocumentMoniker": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\TilemapVisualizer.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\TilemapVisualizer.cs",
+              "ToolTip": "C:\\Users\\elgol\\Dungeon Escape\\Assets\\_Scripts\\TilemapVisualizer.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\TilemapVisualizer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:46:59.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
